@@ -1,0 +1,6 @@
+2018-06-07 17:23:31 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by parent_id' at line 1")
+2018-06-07 19:29:15 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1054, "Unknown column 'parent' in 'where clause'")
+2018-06-07 19:30:03 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id =6' at line 1")
+2018-06-07 19:30:17 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id =6' at line 1")
+2018-06-07 19:30:26 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id =6' at line 1")
+2018-06-07 21:14:10 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'level= 2' at line 1")

@@ -1,0 +1,62 @@
+<div id="mailContentContainer" style="font-size: 14px; padding: 0px;">                
+  <div style="height:20px;"></div>
+  <div align="center" style="font-size:32px"><strong>功能回归测试报告</strong></div>
+  <div style="height:30px;"></div>
+  <div><strong>概要信息</strong></div>
+  <div style="height:3px;"></div>
+  <table width="100%" cellpadding="0" cellspacing="1" style="background:#000; font-size:12px; border:2px solid;">
+	<tbody>
+		<tr>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>报告日期</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>报告人</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>环境类型</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>执行起止时间</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>用例总数</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>用例通过</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>用例失败</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>测试结论</strong></td>
+		</tr>
+		<tr>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_data)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_er)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_env_type)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_exe_time)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_exe_counts)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_exe_pass)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_exe_fail)s</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">%(report_test_result)s</td>
+		</tr>
+	</tbody>
+  </table>
+  <div style="height:20px;"></div>
+  <details>
+  <summary style="color:blue;cursor:pointer;"><strong>【点击展开】执行失败用例明细</strong></summary>
+  <div style="height:10px;"></div>
+  <div>本次测试报告由云盾测试平台自动生成，更多报告信息请访问：<a href="">http://xxx</a></div>
+  <div style="height:3px;"></div>
+  <table width="100%" align="center" cellpadding="0" cellspacing="1" style="background:#000; font-size:12px; border:2px solid;">
+	<tbody>
+		<tr>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>用例ID</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>用例路径</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>用例描述</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>类型</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>预期结果</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>实际结果</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>测试结论</strong></td>
+			<td height="35" bgcolor="#CCCCCC" style="padding:3px;"><strong>执行详情</strong></td>
+		</tr>
+		<tr>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">CS-1807250210</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">用户/登录</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">对账系统服务：查询用户存管的所有信息（TDSYSTEM）</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">手工</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">部分匹配：{"msg": "OK"}</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">{"msg": "OK"}{"msg": "OK", "code": 200, "data": {"userId": "4332a90d-5855-4a38-9174-aa3684521a55", "aviMoney": 18745.36, "orderaviMoney": 130519.43}}</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">PASS</td>
+			<td height="35" bgcolor="#FFFFFF" style="padding:3px;">预期与结果一致</td>
+		</tr> 
+	</tbody>
+  </table>
+  </details>
+</div>

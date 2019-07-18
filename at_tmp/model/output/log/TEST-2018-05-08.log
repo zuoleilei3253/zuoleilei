@@ -1,0 +1,3 @@
+2018-05-08 10:36:02 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1146, "Table 'tdap_data.env_emai_confg' doesn't exist")
+2018-05-08 10:36:40 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1146, "Table 'tdap_data.env_emai_confg' doesn't exist")
+2018-05-08 14:11:32 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(3140, 'Invalid JSON text: "Invalid value." at position 0 in value for column \'p_env_email_confg.email_mainrecv\'.')

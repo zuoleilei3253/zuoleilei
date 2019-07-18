@@ -1,0 +1,6 @@
+2018-06-05 10:21:34 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1054, "Unknown column 'group_id' in 'field list'")
+2018-06-05 10:21:59 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1054, "Unknown column 'group_id' in 'field list'")
+2018-06-05 15:55:38 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by code desc' at line 1")
+2018-06-05 15:59:23 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id num from p_group_info where parent_id =3' at line 1")
+2018-06-05 16:02:53 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by code DESC' at line 1")
+2018-06-05 16:18:16 -- INFO -- 【DataOpt Logging】----->Mysqldb Error:(1364, "Field 'id' doesn't have a default value")

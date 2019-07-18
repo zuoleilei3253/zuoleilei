@@ -1,0 +1,126 @@
+{
+  "email_id": 0,
+  "task_desc": "3123",
+  "task_flow": [
+    {
+      "info_id": "API-201809040553",
+      "case_status": "2",
+      "case_desc": "测试用例",
+      "case_level": "1",
+      "group_id": "10106",
+      "case_env": "2",
+      "remark": "",
+      "case_id": "CS-1809100195",
+      "case_type": "1",
+      "adddate": "2018-09-10 15:07:37",
+      "checked": false,
+      "init_data": [
+        [
+          "3213",
+          "NULL",
+          {
+            "assign_type": "upload",
+            "upload_id": "312",
+            "field": "3213"
+          }
+        ]
+      ]
+    },
+    {
+      "info_id": "API-201809040553",
+      "case_status": "2",
+      "case_desc": "测试用例",
+      "case_level": "1",
+      "group_id": "10106",
+      "case_env": "2",
+      "remark": "",
+      "case_id": "CS-1809100195",
+      "case_type": "1",
+      "adddate": "2018-09-10 15:07:37",
+      "checked": false,
+      "init_data": [
+        [
+          "3213",
+          "NULL",
+          {
+            "assign_type": "upload",
+            "upload_id": "312",
+            "field": "3213"
+          }
+        ]
+      ]
+    }
+  ],
+  "task_id": "TASK-20180823104811"
+}
+
+
+
+{
+  "case_exe_time": null,
+  "case_path": "/用户/登录",
+  "case_params": null,
+  "case_exe_env": 3,
+  "case_exe_plugin": 2,
+  "case_exe_user": null,
+  "case_type": 1,
+  "remark": null,
+  "rqmt_id": null,
+  "case_exe_status": 1,
+  "case_build_type": null,
+  "case_connected_rqmt": null,
+  "id": 19,
+  "tail_init": null,
+  "case_stage": null,
+  "case_editor": null,
+  "case_init": "${user}=获取随机用户(是否存在=是)",
+  "case_builder": "张三丰",
+  "case_prev_data": "1.判断相等(预期=1,实际=${result.标志})",
+  "group_id": "104",
+  "case_sign_type": null,
+  "case_desc": "系统中存在用户登录",
+  "adddate": "2018-09-11 16:25:27",
+  "case_step": "1.${result}=用户登录(账号=${user.账号},密码=${user.密码})",
+  "prev_data": null,
+  "group_id_arr": "null",
+  "case_level": 1,
+  "info_id": null,
+  "case_id": "CS_1808230119",
+  "case_exe_type": 2,
+  "init_data": null,
+  "suite_data": [
+    {
+      "api_need_login": 1,
+      "uri": "/query/isOnePassportTransferPermit",
+      "method": "POST",
+      "info_id": "API-201809270452",
+      "info_desc": "3213123",
+      "api_type": 1,
+      "adddate": "2018-09-27 20:35:45",
+      "api_is_remold": 0,
+      "api_status": 1,
+      "params_set": {
+        "arr_index": 0,
+        "assign_type": "upload",
+        "upload_id": "11",
+        "field": "22"
+      },
+      "checking_set": {
+        "arr_index": 0,
+        "assign_type": "part",
+        "expected_result": "77"
+      }
+    },
+    {
+      "api_need_login": 0,
+      "uri": "/cg/vct/query/redpacket",
+      "method": "GET",
+      "info_id": "API-201809210451",
+      "info_desc": "查询发红包结果，状态为废弃，红包类型为营销红包",
+      "api_type": 1,
+      "adddate": "2018-09-26 22:00:04",
+      "api_is_remold": 1,
+      "api_status": 1
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+//{
+//  "group_id": null,
+//  "total": "总记录数",
+//  "page": "当前页",
+//  "pages": "总页数",
+//  "data": {
+//    "tb_data": [
+//      {
+//        "case_id": "用例ID",
+//        "case_exe_plugin": "执行插件（1-Platform，2-JMeter，3-Appium，4-Python，5-UIAutomation）",
+//        "case_exe_env": "环境类型（1-测试、2-灰度、3-线上）",
+//        "case_exe_type": "执行类型（1-手工、2-自动化）",
+//        "remark": "备注",
+//        "case_path": "#用例目录",
+//        "case_desc": "#用例名称",
+//        "case_init": "#前置条件",
+//        "case_step": "#用例步骤",
+//        "case_prev_data": "预期结果",
+//        "case_level": "用例等级（1-高、2-中、3-低）",
+//        "case_type": "用例类型（1-功能测试，2-性能测试，3-安全测试，4-接口测试，5-压力测试，6-其他）",
+//        "case_exe_status": "用例状态（1-正常、2-待更新、3-已废弃）",
+//        "case_stage": "#流程目录",
+//        "case_builder": "#创建人",
+//        "case_connected_rqmt": "#关联需求",
+//        "case_exe_user": "#用例执行者",
+//        "case_editor": "#用例编写者",
+//        "adddate": "更新时间"
+//      },
+//      {
+//        "case_id": "用例ID",
+//        "case_exe_plugin": "执行插件（1-Platform，2-JMeter，3-Appium，4-Python，5-UIAutomation）",
+//        "case_exe_env": "环境类型（1-测试、2-灰度、3-线上）",
+//        "case_exe_type": "执行类型（1-手工、2-自动化）",
+//        "remark": "备注",
+//        "case_path": "#用例目录",
+//        "case_desc": "#用例名称",
+//        "case_init": "#前置条件",
+//        "case_step": "#用例步骤",
+//        "case_prev_data": "预期结果",
+//        "case_level": "用例等级（1-高、2-中、3-低）",
+//        "case_type": "用例类型（1-功能测试，2-性能测试，3-安全测试，4-接口测试，5-压力测试，6-其他）",
+//        "case_exe_status": "用例状态（1-正常、2-待更新、3-已废弃）",
+//        "case_stage": "#流程目录",
+//        "case_builder": "#创建人",
+//        "case_connected_rqmt": "#关联需求",
+//        "case_exe_user": "#用例执行者",
+//        "case_editor": "#用例编写者",
+//        "adddate": "更新时间"
+//      }
+//    ]
+//  },
+//  "message": "操作成功!",
+//  "code": 200
+//}
+
+//
+//{
+//  "stat_list": [
+//    {
+//      "test_proj": "测试项目",
+//      "test_user": "接口人",
+//      "test_counts_all": "总用例数",
+//      "test_counts_auto": "自动化用例数",
+//      "test_rate_cover": "测试覆盖率",
+//      "test_rate_exe": "测试执行率",
+//      "test_rate_bug": "问题发现率",
+//      "stat_time": "统计时间"
+//    },
+//    {
+//      "test_proj": "测试项目",
+//      "test_user": "接口人",
+//      "test_counts_all": "总用例数",
+//      "test_counts_auto": "自动化用例数",
+//      "test_rate_cover": "测试覆盖率",
+//      "test_rate_exe": "测试执行率",
+//      "test_rate_bug": "问题发现率",
+//      "stat_time": "统计时间"
+//    }
+//  ],
+//  "counts": []
+//}
+
+//{
+//  'message': '查询成功',
+//  'data': {
+//    'counts': ['数据汇总', '第二列', '第三列', '第四列'],
+//    'stat_list': [{
+//      'stat_time': '统计时间',
+//      'test_counts_all': '总用例数',
+//      'test_user': '接口人',
+//      'test_counts_auto': '自动化用例数',
+//      'test_proj': '测试项目',
+//      'test_rate_cover': '测试覆盖率',
+//      'test_rate_bug': '问题发现率',
+//      'test_rate_exe': '测试执行率'
+//    }, {
+//      'stat_time': '统计时间',
+//      'test_counts_all': '总用例数',
+//      'test_user': '接口人',
+//      'test_counts_auto': '自动化用例数',
+//      'test_proj': '测试项目',
+//      'test_rate_cover': '测试覆盖率',
+//      'test_rate_bug': '问题发现率',
+//      'test_rate_exe': '测试执行率'
+//    }]
+//  },
+//  'code': 200
+//}
+
+
+
+
+{
+  "message": "操作成功!",
+  "data": {
+    "group_id": null,
+    "page": "1",
+    "tb_data": [
+      {
+        "id": 1,
+        "label": "权限名称",
+        "url": "/users/permission",
+        "icon": "icon-1",
+        "is_menu": 1,
+        "parentId": 0
+      }
+    ],
+    "total": 1,
+    "pages": 1
+  },
+  "code": 200
+}
+
+
+// 这是用户列表
+//{
+//  "message": "操作成功!",
+//  "data": {
+//    "group_id": null,
+//    "page": "1",
+//    "tb_data": [
+//      {
+//        "id": 1,
+//        "user_name": "用户名",
+//        "user_real_name": "姓名",
+//        "user_password": "密码",
+//        "user_role_id": 2
+//      }
+//    ],
+//    "total": 1,
+//    "pages": 1
+//  },
+//  "code": 200
+//}
+
+{
+    "task_id":"TASK-XXXXX",
+    'plugin_id':'插件编号',
+   "case_type":"1-需求用例，2-回归用例",
+    "result_lists":[
+       {
+  'case_time': '2018-08-15 15:26:40',
+  'case_executor': 'PANSHUHUA',
+  'case_exe_type': '4',
+  'case_result': 3,
+  'case_id': 'CS_1808150039',
+  'case_real_result':'测试结果描述',
+  'case_exe_time':'执行耗时',
+
+},
+      {
+  'case_time': '2018-08-15 15:26:40',
+  'case_executor': 'PANSHUHUA',
+  'case_exe_type': '4',
+  'case_result': 3,
+  'case_id': 'CS_1808150039',
+  'case_real_result':'测试结果描述',
+  'case_exe_time':'执行耗时',
+}
+    ]
+}
+
+
+
+
+{
+  "task_id": "TASK-0008",
+  "case_type":"1-需求用例，2-回归用例,3-线上回归"
+  "case_lists": ["login_018", "login_024", "login_017"],
+  "plugin_id":"插件编号",
+  "remark": {
+    "testip": "10.100.98.90",
+    "token": "ATest",
+    "deviceID","PJQDU15B09010310",
+    "task_type": "3",
+    "projectname": "BJJJ",
+    "taskname": "TriggerTask",
+    "ispar": "YES",
+    "scriptname": "wg",
+    "type": "2"
+
+  }
+}
+
+case 0:
+  return '未执行'
+case 1:
+  return '通过'
+case 2:
+  return '不通过'
+case 3:
+  return '不适用'
+case 4:
+  return '挂起'

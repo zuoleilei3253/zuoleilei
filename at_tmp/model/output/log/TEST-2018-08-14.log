@@ -1,0 +1,260 @@
+2018-08-14 14:43:06 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:43:06 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:43:06 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:43:06 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:43:20 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:43:20 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:43:20 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:43:20 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:43:57 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:43:57 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:43:57 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:43:57 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:44:09 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:44:09 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:44:09 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:44:09 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:44:18 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:44:18 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:44:18 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:44:18 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:44:29 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:44:29 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:44:29 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:44:29 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:44:38 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:44:38 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:44:38 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:44:38 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:44:46 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:44:46 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:44:46 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:44:46 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:46:07 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:46:07 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:46:07 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:46:07 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:46:43 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:46:43 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:46:43 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:46:43 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:47:27 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:47:27 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:47:27 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:47:27 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:49:22 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:49:22 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:49:22 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:49:22 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 14:49:57 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 14:49:57 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 14:49:57 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT (a.num1/b.total) data FROM (SELECT '1' AS id,COUNT(1) AS num1 FROM regress_case_result WHERE case_exe_type!=1) a INNER JOIN (SELECT '1' AS id,COUNT(1) AS total FROM regress_case_result WHERE 1=1) b ON b.id=a.id
+2018-08-14 14:49:57 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 16:16:58 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 16:16:58 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 16:16:58 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 16:16:58 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 16:17:10 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 16:17:10 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 16:17:10 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 16:17:10 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 16:20:50 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 16:20:50 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 16:20:50 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 16:20:50 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:22:39 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:22:39 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:22:39 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:22:39 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:26:21 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:26:21 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:26:21 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:26:21 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:26:37 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:26:37 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:26:37 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:26:37 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:27:32 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:27:32 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:27:32 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:27:32 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:28:28 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:28:28 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:28:28 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:28:28 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:29:00 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:29:00 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:29:00 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:29:00 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:29:12 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:29:12 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:29:12 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:29:12 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:34:01 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:34:01 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:34:01 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:34:01 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:34:11 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:34:11 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:34:11 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:34:11 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:46:08 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:46:08 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:46:08 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:46:08 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:46:09 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:46:09 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:46:09 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:46:09 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 18:46:26 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 18:49:34 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 18:50:18 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:51:19 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:51:19 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:51:19 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:51:19 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:53:44 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:53:44 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:53:44 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:53:44 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:53:55 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:53:55 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:53:55 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:53:55 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:54:20 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:54:20 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:54:20 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:54:20 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:54:45 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:54:45 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:54:45 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:54:45 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:55:38 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:55:38 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:55:38 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:55:38 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:05 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:05 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:05 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:57:05 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:17 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:17 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:17 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:57:17 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="284"
+2018-08-14 18:57:47 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:57:48 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:57:48 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:57:48 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="102"
+2018-08-14 18:57:48 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:58:15 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="284"
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="102"
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="None"
+2018-08-14 18:58:16 -- INFO -- TestExcute Logging】----->***数据库内容为空
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 18:59:10 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="284"
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="102"
+2018-08-14 18:59:11 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：SELECT total ,a.group_id,(b.num/a.total) AS cover_rate,IF(c.num IS NULL,0,(c.num/a.total)) AS exe_rate,IF(d.num IS NULL,0,(d.num/a.total)) AS bug_rate FROM (SELECT group_id,COUNT(1) AS total FROM regress_case_info WHERE 1=1 GROUP BY group_id) a LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_info WHERE case_exe_type!=1 GROUP BY group_id) b ON b.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE batch_id=(SELECT MAX(batch_id) FROM regress_case_result) GROUP BY group_id) c ON c.group_id=a.group_id LEFT JOIN (SELECT group_id,COUNT(1) AS num FROM regress_case_result x1 INNER JOIN regress_case_info x2 ON x2.case_id=x1.case_id WHERE case_result=3 GROUP BY group_id) d ON d.group_id=a.group_id 
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="277"
+2018-08-14 19:00:38 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="101"
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info WHERE id ="284"
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from p_group_info where code="102"
+2018-08-14 19:00:39 -- INFO -- TestExcute Logging】----->***返回JSON数据成功

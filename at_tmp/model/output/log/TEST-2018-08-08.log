@@ -1,0 +1,76 @@
+2018-08-08 14:09:53 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:09:53 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:09:53 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:09:53 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:11:11 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:11:11 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:11:11 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:11:11 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:21:09 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:21:09 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:21:09 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:21:09 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:21:29 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:21:29 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:21:29 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:21:29 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:21:39 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:21:39 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:21:39 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:21:39 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:22:00 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:22:00 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:22:00 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:22:00 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:22:25 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:22:25 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:22:25 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:22:25 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:22:49 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:22:49 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:22:49 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:22:49 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:45:34 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:45:34 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:45:34 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:45:34 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:45:48 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:45:48 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:45:48 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:45:48 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:46:11 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:46:11 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:46:11 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:46:11 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:46:28 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:46:28 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:46:28 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:46:28 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:49:20 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:49:20 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:49:20 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:49:20 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:49:30 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:49:30 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:49:30 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:49:30 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:52:25 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:52:25 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:52:25 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:52:25 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 14:54:32 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 14:54:32 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 14:54:33 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 14:54:33 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 15:01:56 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 15:01:56 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 15:01:56 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 15:01:56 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 15:02:01 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 15:02:01 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 15:02:01 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 15:02:01 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
+2018-08-08 15:03:44 -- INFO -- TestExcute Logging】----->******创建连接池成功**************************
+2018-08-08 15:03:44 -- INFO -- TestExcute Logging】----->数据库:【 tmp_v3】 连接成功！数据库环境为： 10.100.99.7
+2018-08-08 15:03:44 -- INFO -- TestExcute Logging】----->***查询获取游标成功！查询语句为：select * from rqmt_case_info 
+2018-08-08 15:03:44 -- INFO -- TestExcute Logging】----->***返回JSON数据成功
